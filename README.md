@@ -3,7 +3,7 @@
 
 Este projeto é uma aplicação de console desenvolvida em C# com .NET 7, com o objetivo de simular um sistema básico de cadastro e gerenciamento de séries. Trata-se de um exercício prático ideal para quem está aprendendo programação orientada a objetos e deseja entender como estruturar uma aplicação simples em C#.
 
-## Objetivo
+## Proposito 
 
 Fornecer uma base sólida para aplicar os conceitos fundamentais de desenvolvimento com C# e .NET, incluindo:
 
@@ -11,6 +11,20 @@ Fornecer uma base sólida para aplicar os conceitos fundamentais de desenvolvime
 - Estruturação de menus no console
 - Manipulação de listas
 - Organização de código em classes e métodos
+
+Exercitar fundamentos de C#: O projeto foi desenvolvido com o objetivo didático de praticar conceitos básicos da linguagem C#, como classes, objetos, herança, enums e listas genéricas.
+
+Explorar a programação orientada a objetos (POO): Ele serve como um primeiro contato com a modelagem de entidades e aplicação de princípios como encapsulamento e separação de responsabilidades.
+
+Simular operações CRUD de forma simples: Permite que o desenvolvedor entenda, de forma prática, como criar menus interativos e implementar funcionalidades como criar, listar, atualizar e excluir registros (nesse caso, séries).
+
+Aprender estruturação e organização de código: Ensina a separar lógica de dados, lógica de negócios e interface com o usuário, mesmo dentro de uma aplicação de console.
+
+### Utilidade Prática
+Base para projetos maiores: Apesar de simples, a estrutura pode ser evoluída para APIs, aplicações web ou bancos de dados persistentes.
+O projeto cobre vários pontos frequentemente exigidos em testes de lógica e C#, como uso de enum, List<T>, switch-case, e organização modular.
+
+
 
 ## Funcionalidades
 
